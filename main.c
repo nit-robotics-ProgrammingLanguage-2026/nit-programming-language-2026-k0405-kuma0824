@@ -9,5 +9,7 @@ int main(void) {
 
     a = 90.0 * x / pi;
 
+    printf("%f\n", a);
+
     return 0;
 }
